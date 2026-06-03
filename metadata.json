@@ -1,0 +1,6 @@
+{
+  "name": "Chrome Dino Runner",
+  "description": "An arcade-perfect Chrome Dino clone with custom themes, retro sound effects, stats tracking, power-ups, and a skin shop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
